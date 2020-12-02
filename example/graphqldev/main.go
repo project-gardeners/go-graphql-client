@@ -17,7 +17,7 @@ import (
 	graphqlserver "github.com/graph-gophers/graphql-go"
 	"github.com/graph-gophers/graphql-go/example/starwars"
 	"github.com/graph-gophers/graphql-go/relay"
-	graphql "github.com/hasura/go-graphql-client"
+	graphql "github.com/project-gardeners/go-graphql-client"
 )
 
 func main() {
